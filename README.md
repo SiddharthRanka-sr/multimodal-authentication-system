@@ -42,7 +42,9 @@ python app.py
 ### Documentation
 
 Software Requirements Specification (SRS)
+
 The SRS document outlines the complete functional and non-functional requirements of the system
+
 UML Diagrams
 
 Refer to docs/ for the documents.
